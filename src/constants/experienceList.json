@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Skinstric AI",
+    "role": "Software Engineer",
+    "resps": [
+      "Architected a real-time skin analysis platform using OpenAI Vision API and Next.js, achieving 98% detection accuracy across diverse skin conditions.",
+      "Using React, TypeScript and MobX to engineer a frontend codebase using industry best practises",
+      "Writing extremely clean and reusable code by making effective use of dependency injection, code isolation, local reasoning, clean module boundaries, fast development cycles, tests, deterministic behaviour and type safety"
+    ],
+    "date": "Aug 2025 - Sept 2025"
+  },
+  {
+    "company": "Frontend Simplified",
+    "role": "Software Engineer",
+    "resps": [
+      "Selected as a peer mentor after achieving top 5% performance in the cohort, providing debugging support and code reviews for 20+ students across React and Next.js projects.",
+      "Developed comprehensive learning resources for React component architecture and TypeScript, resulting in 70% of mentored students successfully implementing type-safe applications.",
+      "Built and shared a reusable component library using ShadCN/UI, reducing development time for student projects by 40% and improving code consistency."
+    ],
+    "date": "Jun 2025 - Aug 2025"
+  }
+]
