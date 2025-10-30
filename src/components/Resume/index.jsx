@@ -22,6 +22,8 @@ import technicalSkills from "../../constants/technicalSkills.json"
 import technicalSkills2 from "../../constants/technicalSkills2.json"
 import qualities from "../../constants/qualities.json"
 import experienceList from "../../constants/experienceList.json"
+import resumePdf from "../../assets/jakobi hardy resume updated 2025.pdf"
+
 
 export default function Resume() {
   const controls = useAnimation()
@@ -72,10 +74,10 @@ export default function Resume() {
                 <a href="https://github.com/youngkobi" target="_blank" rel="noreferrer">
                   <Icon img={githubIcon} />
                 </a>
-                <a href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/jakobi-hardy/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="" target="_blank" rel="noreferrer">
+                <a href={resumePdf} target="_blank" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>

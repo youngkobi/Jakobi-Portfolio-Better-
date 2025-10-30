@@ -14,6 +14,8 @@ import work4 from "../../assets/Images/netflix_clone-thumbnail.png"
 import work5 from "../../assets/Images/Chat Thumbnail-img.png"
 import work6 from "../../assets/Images/ultraverse-thumbnail.png"
 import work7 from "../../assets/Images/Skintristic AI THumbnail.png"
+import work8 from "../../assets/Images/Old Portfolio.png"
+import work9 from "../../assets/Images/Summarist Thumbnail.png"
 
 export default function Projects() {
   const controls = useAnimation()
@@ -88,6 +90,22 @@ export default function Projects() {
       title: "SKin Care AI Mock",
       detail: "",
       site: "https://skintristic-ai.vercel.app/",
+    },
+    {
+     client: "Personal Project",
+      year: "2025",
+      img: work8,
+      title: "Portfolio Variant",
+      detail: "",
+      site: "youngkobi-eportfolio.vercel.app",
+    },
+    {
+     client: "Frontend Simplified",
+      year: "2025",
+      img: work9,
+      title: "Library Audible Clone",
+      detail: "",
+      site: "https://summarist-steel.vercel.app/",
     },
   ]
 
