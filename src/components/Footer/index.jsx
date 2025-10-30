@@ -253,7 +253,7 @@ export default function Footer() {
         className="footer--bottom"
         onAnimationComplete={() => handleComplete()}
       >
-        <p>Copyright © {new Date().getFullYear()} Zen Farhat</p>
+        <p>Copyright © {new Date().getFullYear()} Jakobi Hardy</p>
         <p>
           <Time delay={3} />
         </p>
