@@ -15,6 +15,7 @@
   font-weight: 400;
   line-height: 100%; /* 15.6px */
   text-transform: uppercase;
+  dn
 }
 
 .workCard--line {
@@ -53,7 +54,7 @@
 
 .workCard--body h1 {
   position: absolute;
-  top: 80px;
+  top: 70px;
   color: #fff;
   font-size: 48px;
   font-style: normal;
@@ -63,6 +64,8 @@
   text-transform: uppercase;
   mix-blend-mode: difference;
   max-width: 20ch;
+  left: -12%;
+ 
 }
 
 @media (max-width: 1500px) {
