@@ -65,7 +65,7 @@ export default function Projects() {
       img: work4,
       title: "Cloning a popular streaming.",
       detail: "",
-      site: "https://clipflix-navy.vercel.app/login",
+      site: "https://clipflix-navy.vercel.app/",
     },
     {
      client: "Personal Project",
